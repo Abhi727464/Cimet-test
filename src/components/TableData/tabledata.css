@@ -1,0 +1,163 @@
+.container{
+    width: 90vw;
+    margin: 10px auto;
+}
+.btn-area{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.btn{
+    background-color: rgb(1, 64, 85);
+    color: white;
+    padding: 7px 15px;
+    border: none;
+    font-size: 15px;
+    border-radius: 4px;
+}
+.location{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 8px;
+}
+.filter-area{
+    display: flex;
+    
+}
+.table-data{
+    width: 100%;
+    background-color: rgb(237, 237, 237);
+    /* height: 200px; */
+    border-radius: 5px;
+    padding: 20px 0px;
+    margin-top: 15px;
+}
+.category{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+
+}
+.bill-category{
+    background-color: rgb(189, 189, 189);
+    background-color: rgb(1, 64, 85);
+    color: white;
+    width: 120px;
+    /* margin-top: 10px; */
+    height: 35px;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+.details{
+    display: flex;
+    justify-content: space-around;
+}
+.box1{
+    margin-top: 10px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(201, 231, 231);
+    height: 250px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+
+}
+.box1 img{
+    width: 40px;
+    margin: auto;
+    text-align: center;
+    margin-bottom: 0;
+    margin-top: 0;
+    
+}
+.box1 a{
+    text-decoration: none;
+    color: rgb(0, 122, 135);
+    margin-bottom: 10px;
+    
+}
+
+.box2{
+    margin-top: 10px;
+    width: 300px;
+    background-color: rgb(201, 231, 231);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 7px;
+}
+.updating-price{
+    background-color: rgb(1, 64, 85);
+    border-radius: 7px 7px 0px 0px;
+    color: white;
+    text-align: center;
+    padding-bottom: 7px;
+}
+.standard{
+    background-color: rgb(1, 64, 85);
+    color: white;
+    text-align: center;
+    padding: 6px 0px;
+    margin-top: 5px;
+    position: relative;
+    top: 30px;
+    border-radius: 0px 0px 7px 7px ;
+}
+.options{
+    margin-top: 10px;
+}
+.options p{
+display: flex;
+align-items: center;
+margin-left: 4px;
+}
+.box3{
+    width: 300px;
+    background-color: rgb(201, 231, 231);
+    border-radius: 7px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.cost{
+  background-color: rgb(1, 64, 85);
+  color: white;
+  border-radius: 7px 7px 0px 0px;
+  height: 35px;
+  text-align: center;
+  padding-top: 4px;
+}
+.year-cost{
+    color: rgb(1, 64, 85);
+    text-align: center;
+    margin-top: 50px;
+
+}
+.month-cost{
+    text-align: center;
+    
+}
+.advantage{
+    width: 95%;
+    margin:20px auto;
+}
+.connect-data{
+    width: 95%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.connect-data p{
+    display: flex;
+    align-items: center;    
+}
+.connect-btn{
+    background-color: rgb(1, 64, 85);
+    padding: 10px 20px;
+    border: none;
+    color: white;
+    font-size: 16px;
+    border-radius: 40px;
+}
