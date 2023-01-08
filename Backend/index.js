@@ -28,7 +28,7 @@ app.get("/api", (req, res) => {
     const finalData = axios(config1)
         .then(function (response) {
             const token = response.data.data.token;
-            console.log()
+            // console.log()
             if (token) {
 
                 console.log("hii", token)
