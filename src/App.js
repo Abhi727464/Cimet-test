@@ -1,5 +1,4 @@
 import './App.css';
-import Navbar from './components/Navbar/Navbar';
 import TableData from './components/TableData/TableData';
 
 function App() {

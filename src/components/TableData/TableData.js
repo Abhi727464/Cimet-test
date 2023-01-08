@@ -3,9 +3,8 @@ import axios from "axios";
 import "./tabledata.css";
 import LocationOnIcon from "@mui/icons-material/LocationOn";
 import ElectricBoltIcon from "@mui/icons-material/ElectricBolt";
-import SolarPowerIcon from "@mui/icons-material/SolarPower";
 import CheckCircleOutlineIcon from "@mui/icons-material/CheckCircleOutline";
-import AttachMoneyIcon from '@mui/icons-material/AttachMoney';
+
 
 const TableData = () => {
   const [data, setData] = useState([]);
