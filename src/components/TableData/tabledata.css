@@ -266,4 +266,15 @@
   .advantage{
     width: 90%;
   }
+  .category{
+    flex-direction: column;
+  }
+  .location{
+    min-width: 200px;
+    margin: 5px auto; 
+  }
+  .search-box{
+    min-width: 200px;
+    margin: auto;
+  }
 }

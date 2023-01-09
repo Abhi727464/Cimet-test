@@ -30,7 +30,7 @@ const TableData = () => {
         <div className="search-box">
           <input
             type="text"
-            placeholder="Item Provide Name"
+            placeholder="Search Provider"
             onChange={(e) => setSearch(e.target.value)}
           />
         </div>
